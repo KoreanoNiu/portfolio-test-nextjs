@@ -1,24 +1,17 @@
 {
-  "name": "portfolio-test-nextjs",
+  "name": "pruebas-nextjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start -P $PORT"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KoreanoNiu/portfolio-test-nextjs.git"
+    "start": "next start -P $PORT",
+    "analyze": "cross-env ANALYZE=true next build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KoreanoNiu/portfolio-test-nextjs/issues"
-  },
-  "homepage": "https://github.com/KoreanoNiu/portfolio-test-nextjs#readme",
   "devDependencies": {
     "next": "^12.0.10",
     "next-images": "^1.8.4",
@@ -30,5 +23,9 @@
     "sass": "^1.49.7",
     "terser-webpack-plugin": "^5.1.4",
     "uikit": "^3.10.1"
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "^12.0.10",
+    "cross-env": "^7.0.3"
   }
 }

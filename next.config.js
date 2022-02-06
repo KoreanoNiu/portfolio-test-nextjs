@@ -4,6 +4,10 @@ const withVideos = require('next-videos');
 const TerserPlugin = require('terser-webpack-plugin');
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 
+const withBundleAnalyzer = require('@next/bundle-analyzer')({
+  enabled: process.env.ANALYZE === 'true',
+})
+
 const conf = {
     webpack5: true,
     swcMinify: true,
@@ -79,4 +83,4 @@ const conf = {
     },
 }
 
-module.exports = withVideos(withImages(conf, {}));
+module.exports = withVideos(withImages(withBundleAnalyzer(conf, {})));
