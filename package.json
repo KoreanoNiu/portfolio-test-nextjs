@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start -P $PORT",
+    "start": "next start -P $PORT"
   },
   "repository": {
     "type": "git",
