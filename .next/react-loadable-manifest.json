@@ -1,44 +1,44 @@
 {
   "_app.jsx -> ../components/Uikit": {
-    "id": "_app.jsx -> ../components/Uikit",
+    "id": 2484,
     "files": [
-      "static/chunks/components_AboutMe_AboutMe_jsx-components_Contact_Contact_jsx-components_Habilities_Habilitie-39ec48.js"
+      "static/chunks/a987ea44-726b58c957f797b4.js"
     ]
   },
   "index.jsx -> ../components/AboutMe/AboutMe": {
-    "id": "index.jsx -> ../components/AboutMe/AboutMe",
+    "id": 969,
     "files": [
-      "static/chunks/components_AboutMe_AboutMe_jsx-components_Contact_Contact_jsx-components_Habilities_Habilitie-39ec48.js"
+      "static/chunks/a987ea44-726b58c957f797b4.js"
     ]
   },
   "index.jsx -> ../components/Contact/Contact": {
-    "id": "index.jsx -> ../components/Contact/Contact",
+    "id": 8620,
     "files": [
-      "static/chunks/components_AboutMe_AboutMe_jsx-components_Contact_Contact_jsx-components_Habilities_Habilitie-39ec48.js"
+      "static/chunks/a987ea44-726b58c957f797b4.js"
     ]
   },
   "index.jsx -> ../components/Habilities/Habilities": {
-    "id": "index.jsx -> ../components/Habilities/Habilities",
+    "id": 2335,
     "files": [
-      "static/chunks/components_AboutMe_AboutMe_jsx-components_Contact_Contact_jsx-components_Habilities_Habilitie-39ec48.js"
+      "static/chunks/a987ea44-726b58c957f797b4.js"
     ]
   },
   "index.jsx -> ../components/Navbar/Navbar": {
-    "id": "index.jsx -> ../components/Navbar/Navbar",
+    "id": 8334,
     "files": [
-      "static/chunks/components_AboutMe_AboutMe_jsx-components_Contact_Contact_jsx-components_Habilities_Habilitie-39ec48.js"
+      "static/chunks/a987ea44-726b58c957f797b4.js"
     ]
   },
   "index.jsx -> ../components/Video/Video": {
-    "id": "index.jsx -> ../components/Video/Video",
+    "id": 6047,
     "files": [
-      "static/chunks/components_AboutMe_AboutMe_jsx-components_Contact_Contact_jsx-components_Habilities_Habilitie-39ec48.js"
+      "static/chunks/a987ea44-726b58c957f797b4.js"
     ]
   },
   "index.jsx -> ../components/Work/Work": {
-    "id": "index.jsx -> ../components/Work/Work",
+    "id": 5071,
     "files": [
-      "static/chunks/components_AboutMe_AboutMe_jsx-components_Contact_Contact_jsx-components_Habilities_Habilitie-39ec48.js"
+      "static/chunks/a987ea44-726b58c957f797b4.js"
     ]
   }
 }
