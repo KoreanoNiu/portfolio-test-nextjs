@@ -1,0 +1,44 @@
+{
+  "_app.jsx -> ../components/Uikit": {
+    "id": 2484,
+    "files": [
+      "static/chunks/a987ea44-726b58c957f797b4.js"
+    ]
+  },
+  "index.jsx -> ../components/AboutMe/AboutMe": {
+    "id": 969,
+    "files": [
+      "static/chunks/a987ea44-726b58c957f797b4.js"
+    ]
+  },
+  "index.jsx -> ../components/Contact/Contact": {
+    "id": 8620,
+    "files": [
+      "static/chunks/a987ea44-726b58c957f797b4.js"
+    ]
+  },
+  "index.jsx -> ../components/Habilities/Habilities": {
+    "id": 2335,
+    "files": [
+      "static/chunks/a987ea44-726b58c957f797b4.js"
+    ]
+  },
+  "index.jsx -> ../components/Navbar/Navbar": {
+    "id": 8334,
+    "files": [
+      "static/chunks/a987ea44-726b58c957f797b4.js"
+    ]
+  },
+  "index.jsx -> ../components/Video/Video": {
+    "id": 6047,
+    "files": [
+      "static/chunks/a987ea44-726b58c957f797b4.js"
+    ]
+  },
+  "index.jsx -> ../components/Work/Work": {
+    "id": 5071,
+    "files": [
+      "static/chunks/a987ea44-726b58c957f797b4.js"
+    ]
+  }
+}
