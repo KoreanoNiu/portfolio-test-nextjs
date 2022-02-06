@@ -7,7 +7,6 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start -P $PORT",
-    "analyze": "cross-env ANALYZE=true next build"
   },
   "repository": {
     "type": "git",
